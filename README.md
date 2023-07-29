@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Imagenes</title>
+    
 </head>
 <body style="background:black;display:flex;flex-direction:ccolumn;align-items:center;               justify-content:center;">
     <div>
