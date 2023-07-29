@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
     <title>Imagenes</title>
 </head>
@@ -6,3 +8,4 @@
         <h1 style="color:white">IMAGENES</h1>
     </div>
 </body>
+</html>
